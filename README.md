@@ -10,7 +10,8 @@ El problema a resolver consiste en encontrar la máxima cantidad de rectángulos
 
 ## 🚀 Cómo Empezar - (Solución en TypeScript)
 ```bash
-npm i
+cd typescript
+npm install
 npm start
 ```
 
@@ -20,6 +21,9 @@ Tu solución debe pasar los siguientes casos de prueba:
 - Paneles 1x2 y techo 2x4 ⇒ Caben 4
 - Paneles 1x2 y techo 3x5 ⇒ Caben 7
 - Paneles 2x2 y techo 1x10 ⇒ Caben 0
+
+**EXTRA:**
+- Paneles 3x3 y techo 4x5 ⇒ Caben 1
 
 ---
 
@@ -43,5 +47,5 @@ Finalmente, sumé la cantidad de paneles obtenidos en ambas orientaciones.
 
 ## 🤔 Supuestos y Decisiones
 
-
 En una entrega anterior de esta misma prueba, también realicé una interfaz intuitiva y coherente con el diseño de Ruuf. Les invito a revisarla si lo desean.
+[Ruuf Test](https://ruuf-test.vercel.app/)
