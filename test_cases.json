@@ -20,6 +20,13 @@
       "roofW": 1,
       "roofH": 10,
       "expected": 0
+    },
+    {
+      "panelW": 3,
+      "panelH": 3,
+      "roofW": 4,
+      "roofH": 5,
+      "expected": 1
     }
   ]
 }
