@@ -10,8 +10,7 @@ El problema a resolver consiste en encontrar la máxima cantidad de rectángulos
 
 ## 🚀 Cómo Empezar - (Solución en TypeScript)
 ```bash
-cd typescript
-npm install
+npm i
 npm start
 ```
 
@@ -43,5 +42,6 @@ Finalmente, sumé la cantidad de paneles obtenidos en ambas orientaciones.
 ---
 
 ## 🤔 Supuestos y Decisiones
+
 
 En una entrega anterior de esta misma prueba, también realicé una interfaz intuitiva y coherente con el diseño de Ruuf. Les invito a revisarla si lo desean.
